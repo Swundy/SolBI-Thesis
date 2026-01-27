@@ -11,7 +11,7 @@ This repository contains the deliverables and supporting materials for my Master
 Business intelligence dashboards support monitoring and analysis, but often fail to support the *decision process* itself (assumptions, trade-offs, collaboration, and rationale). This thesis investigates how a UX-driven decision workspace can improve executive decision-making while preserving human judgment. The work combines semi-structured interviews with executives and formative usability evaluations of a Figma prototype.
 
 ## Repository contents
-- `thesis/` — final thesis PDF (+ optional LaTeX sources)
+- `thesis/` — final thesis PDF 
 - `figma/` — prototype link + archived exports
 - `resources/` — interview guide, evaluation protocol, anonymized excerpts, figures
 
