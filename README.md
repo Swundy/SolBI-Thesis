@@ -1,22 +1,26 @@
 # SolBI — UX-Driven Decision Support for SME Executives
 
-This repository contains the deliverables and supporting materials for my Master’s thesis on a UX-oriented decision-support workspace (SolBI) designed for Swiss SME executive decision-making.
+This repository contains the public deliverables and supporting materials for my Master’s thesis on **SolBI**, a UX-oriented **decision-support workspace** designed for executive decision-making in Swiss SMEs.
 
 ## Quick links
-- **Thesis PDF (final):** [Download from Releases](#)  
-- **Figma clickable prototype:** [Open prototype](#)  
-- **Key screens (PDF export):** [`figma/exports/solbi_prototype_screens.pdf`](figma/exports/solbi_prototype_screens.pdf)
+- **Thesis (PDF):** [`thesis/thesis.pdf`](thesis/thesis.pdf)
+- **Figma clickable prototype:** see [`prototype/figma-link.md`](prototype/figma-link.md)
+- **Screenshots & figures:** [`assets/`](assets/)
 
 ## Abstract
-Business intelligence dashboards support monitoring and analysis, but often fail to support the *decision process* itself (assumptions, trade-offs, collaboration, and rationale). This thesis investigates how a UX-driven decision workspace can improve executive decision-making while preserving human judgment. The work combines semi-structured interviews with executives and formative usability evaluations of a Figma prototype.
+Business intelligence dashboards support monitoring and analysis, but often fail to support the *decision process* itself (assumptions, trade-offs, collaboration, and rationale). This thesis investigates how a UX-driven decision workspace can improve executive decision-making while preserving human judgment. The work combines semi-structured interviews with SME decision-makers and formative usability testing of a Figma clickable prototype.
 
-## Repository contents
-- `thesis/` — final thesis PDF 
-- `figma/` — prototype link + archived exports
-- `resources/` — interview guide, evaluation protocol, anonymized excerpts, figures
+## Repository structure
+- `thesis/` — final thesis PDF
+- `prototype/` — Figma link and prototype access information
+- `assets/figures/` — figures used in the thesis (exported)
+- `assets/screenshots/` — prototype screenshots and evaluation visuals (exported)
 
-## Notes on confidentiality
-Raw interview transcripts and company-identifying data are not shared due to confidentiality. Public materials are anonymized.
+## Confidentiality and data availability
+Raw interview transcripts and any company-identifying information are not shared due to confidentiality agreements. Any shared excerpts and visuals are anonymized and selected to avoid re-identification.
 
-## Citation
-If you use this work, please cite it using the information in `CITATION.cff`.
+## How to cite
+Please cite this work using the metadata in [`CITATION.cff`](CITATION.cff).
+
+## License
+See [`LICENSE.md`](LICENSE.md).
