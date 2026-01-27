@@ -12,9 +12,10 @@ This repository contains the public deliverables and supporting materials for my
 ---
 
 ## Quick links
-- **Thesis PDF (final):** `thesis/thesis.pdf`
-- **Figma clickable prototype:** `prototype/figma-link.md`
-- **Figures & screenshots:** `assets/figures/` and `assets/screenshots/`
+- **Thesis PDF (final):** [thesis/thesis.pdf](thesis/thesis.pdf)
+- **Figma clickable prototype:** [prototype/figma-link.md](prototype/figma-link.md)
+- **Figures:** [assets/figures/](assets/figures/)
+- **Screenshots:** [assets/screenshots/](assets/screenshots/)
 
 ---
 
