@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/logo.png" alt="SolBI logo" width="160" style="margin-right:24px;">
-  <img src="assets/logo_unil.png" alt="UNIL logo" width="160">
+  <img src="assets/logo.png" alt="SolBI logo" height="72">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo_unil.png" alt="UNIL logo" height="72">
 </p>
 
 # SolBI — UX-Driven Decision Support for SME Executives
