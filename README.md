@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="SolBI logo" width="180">
+</p>
+
 # SolBI — UX-Driven Decision Support for SME Executives
 
 This repository contains the public deliverables and supporting materials for my Master’s thesis on **SolBI**, a UX-oriented **decision-support workspace** designed for executive decision-making in Swiss SMEs.
